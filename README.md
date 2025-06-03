@@ -5,7 +5,9 @@ I'm using the [Orion SpaceProbe 130ST telescope](https://www.highpointscientific
 
 While dark frames are easy to take with the dust cap on, I was looking for a convenient and budget-friendly way to make **flat frames**. I usually shoot early in the evening and don't have twilight available. While placing a white t-shirt over the telescope and using a [laptop screen](https://practicalastrophotography.com/a-brief-guide-to-calibration-frames/) is one option, I wanted a more straightforward and reusable solution. Hence, this flat frame light diffuser for the Orion SpaceProbe 130ST.
 
+The Flat Frame Light Diffuser is operated on the same 12V battery source I use for my star-tracker.
 
+<img src="./Photos/14_Finished_Diffuser_On.jpg" width="400">
 
 ---
 
@@ -78,10 +80,20 @@ This step might not be necessary if you’re using opaque acrylic sheets. For cl
 
 ### 7. Make and install the mount
 
-3D print the [mount](https://github.com/SvenvB/Flat-frame-light-diffuser/blob/main/CAD/CE3E3V2_FlatFrameDiffuser-Mount.gcode) and apply aluminum tape around the inner rim to reflect light from the LEDs, as shown below.
+3D print the [mount](https://github.com/SvenvB/Flat-frame-light-diffuser/blob/main/CAD/FlatFrameDiffuser-Mount.stl) and apply aluminum tape around the inner rim to reflect light from the LEDs, as shown below.
 
 <img src="https://github.com/SvenvB/Flat-frame-light-diffuser/blob/main/Photos/10_Tape_Rim_Diffuser_Casing.jpg" width="400">
 
 Cut a thin plastic sheet in a circle that will fit in the mount, to protect the white t-shirt from getting dirty. Then mount the diffuser into the printed part. I used a hot glue gun to secure the female DC power jack in place.
 
 <img src="https://github.com/SvenvB/Flat-frame-light-diffuser/blob/main/Photos/11_Mount_Light_Diffuser.jpg" width="400">
+
+3D print the [backside cap](https://github.com/SvenvB/Flat-frame-light-diffuser/blob/main/CAD/FlatFrameDiffuser-Cap.stl) which can be secured to the mount with M4 bolts and nuts. Also find the [FreeCAD project](https://github.com/SvenvB/Flat-frame-light-diffuser/blob/main/CAD/FlatFrameDiffuser.FCStd) to remove the *Gingerbread Technologies* branding if desired.
+
+<img src="./Photos/12_Backside_casing.jpg" width="400">
+
+### 8. Finished Project
+Enjoy your DIY Flat Frame Light Diffuser!
+
+<img src="./Photos/13_Finished_Diffuser_Off.jpg" width="400">
+<img src="./Photos/14_Finished_Diffuser_On.jpg" width="400">
